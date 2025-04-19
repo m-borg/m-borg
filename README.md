@@ -1,7 +1,5 @@
 ## Hello
 
-My name is Michał I am currently jobless ;__;
-
 <!--
 **m-borg/m-borg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
